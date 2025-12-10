@@ -1,0 +1,34 @@
+# Backend (Python)
+backend/__pycache__/
+backend/env/
+backend/venv/
+backend/.venv/
+backend/*.pyc
+backend/*.pyd
+backend/*.pyo
+backend/*.so
+backend/.mypy_cache/
+backend/.pytest_cache/
+backend/.ruff_cache/
+backend/.cache/
+backend/.pdm-python
+backend/.pixi
+backend/__pypackages__/
+backend/cython_debug/
+backend/.pytype/
+backend/.pyre/
+backend/.dmypy.json
+backend/dmypy.json
+backend/.ipynb_checkpoints
+
+# Frontend (Node / React / Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/.cache/
+frontend/.turbo/
+frontend/out/
+
+# Global
+.env
+*.log
+.DS_Store
